@@ -1,0 +1,10 @@
+FORMATO DOCUMENTACAO
+rspec spec\saque_spec.rb -fd
+
+VERIFICAR ERROS
+ rspec spec\saque_spec.rb
+
+PADRÃO
+_spec
+
+rspec --format html --out report.html
